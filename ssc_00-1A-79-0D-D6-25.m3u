@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:1,SSC1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:0D:D6:25&stream=1002802&extension=ts
-#EXTINF:1,SSC2
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:0D:D6:25&stream=1002794&extension=ts
