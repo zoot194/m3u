@@ -1,0 +1,10 @@
+{
+  "id": "webtorrent-proxy-addon",
+  "version": "1.0.0",
+  "name": "WebTorrent Proxy",
+  "description": "Stream torrents directly from your server",
+  "types": ["movie", "series"],
+  "resources": ["stream"],
+  "catalogs": [],
+  "idPrefixes": ["tt"]
+}
